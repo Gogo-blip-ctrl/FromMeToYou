@@ -2,27 +2,27 @@
 // 🎭 Meme Data
 // =========================
 const memes = [
-  { src: "Pic/meme1.jpg", quote: "Trying to be productive like..." },
-  { src: "Pic/meme2.jpg", quote: "Realisation hits different." },
-  { src: "Pic/meme3.jpg", quote: "When you study 10 minutes..." },
-  { src: "Pic/meme4.jpg", quote: "Trying not to look suspicious like..." },
-  { src: "Pic/meme5.jpg", quote: "When reality hits you 😭" },
-  { src: "Pic/meme6.jpg", quote: "If only..." },
-  { src: "Pic/meme7.jpg", quote: "Why... where... how..." },
-  { src: "Pic/meme8.jpg", quote: "When petty calls you 👀" },
-  { src: "Pic/meme9.jpg", quote: "*Sad cries in productivity*" }
+  { src: "Pic/Meme1.jpg", quote: "Trying to be productive like..." },
+  { src: "Pic/Meme2.jpg", quote: "Realisation hits different." },
+  { src: "Pic/Meme3.jpg", quote: "When you study 10 minutes..." },
+  { src: "Pic/Meme4.jpg", quote: "Trying not to look suspicious like..." },
+  { src: "Pic/Meme5.jpg", quote: "When reality hits you 😭" },
+  { src: "Pic/Meme6.jpg", quote: "If only..." },
+  { src: "Pic/Meme7.jpg", quote: "Why... where... how..." },
+  { src: "Pic/Meme8.jpg", quote: "When petty calls you 👀" },
+  { src: "Pic/Meme9.jpg", quote: "*Sad cries in productivity*" }
 ];
 
 const loveMemes = [
-  { src: "Pic/love1.jpg", quote: "When I think of you 💞" },
-  { src: "Pic/love2.jpg", quote: "Agony 😩" },
-  { src: "Pic/love3.jpg", quote: "Keep 'em 😏" },
-  { src: "Pic/love4.jpg", quote: "Now listen to me!" },
-  { src: "Pic/love5.jpg", quote: "🥰" },
-  { src: "Pic/love6.jpg", quote: "If it tingles, it's me 😘" },
-  { src: "Pic/love7.jpg", quote: "Everytimmmmmmeeee 💫" },
-  { src: "Pic/love8.jpg", quote: "It's a promise 😍😝" },
-  { src: "Pic/love9.jpg", quote: "I'm addicted 🤤" }
+  { src: "Pic/Love1.jpg", quote: "When I think of you 💞" },
+  { src: "Pic/Love2.jpg", quote: "Agony 😩" },
+  { src: "Pic/Love3.jpg", quote: "Keep 'em 😏" },
+  { src: "Pic/Love4.jpg", quote: "Now listen to me!" },
+  { src: "Pic/Love5.jpg", quote: "🥰" },
+  { src: "Pic/Love6.jpg", quote: "If it tingles, it's me 😘" },
+  { src: "Pic/Love7.jpg", quote: "Everytimmmmmmeeee 💫" },
+  { src: "Pic/Love8.jpg", quote: "It's a promise 😍😝" },
+  { src: "Pic/Love9.jpg", quote: "I'm addicted 🤤" }
 ];
 
 // =========================
